@@ -9,3 +9,14 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Ryan's local machine-ops scripts and logs (personal paths; not part of the public prompt library)
+/disk-guard.sh
+/disk-guard.log
+/fill-drive.sh
+/move-to-drive.sh
+/render-watch.sh
+/verify-drive.sh
+/wt-inventory.sh
+/wt-resolve.sh
+/wt-sweep.sh
